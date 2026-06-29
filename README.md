@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Bhargava sood</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Machine Learning engineer and Data Analyst  from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargavasood07&label=Profile%20views&color=0e75b6&style=flat" alt="bhargavasood07" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhargavasood07" alt="bhargavasood07" /></a> </p>
 
-- 🔭 I’m currently working on [snaped code campus (as Academic content manager)](https://snapedcodecampus.tech/home)
+- 🔭 I’m currently working on [snaped code campus (as Chief Executive officer)](https://snapedcodecampus.tech/home)
 
-- 🌱 I’m currently learning **DSA (Python) , (Reactjs)**
+- 🌱 I’m currently learning **NLP , (RAG-AI , LLM's)**
 
-- 👯 I’m looking to collaborate on [Frontend developer](Bhargavasood07/CALCULATOR.HTML)
+- 👯 I’m looking to collaborate on [Machine Learning and Data analyst](Bhargavasood07/CALCULATOR.HTML)
 
-- 🤝 I’m looking for help with **Data analysis**
+- 🤝 I’m looking for help with **RAG-AI**, **NLP(NLTK)**
 
-- 💬 Ask me about **(HTML,CSS,JS)**
+- 💬 Ask me about **(ML,FODS,MYSQL,JAVA)**
 
-- 📫 How to reach me **bhargavasood242@gmail.com**
+- 📫 How to reach me **bhargavasood5@gmail.com**
 
 - ⚡ Fun fact **I always learn something new.**
 
